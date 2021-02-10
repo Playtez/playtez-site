@@ -1,7 +1,8 @@
 {
-  "name": "playtez-site",
+  "name": "@playtez/site",
   "version": "1.0.0",
   "private": true,
+  "main": "index.js",
   "description": "playtez-site",
   "keywords": [
     "gatsby"

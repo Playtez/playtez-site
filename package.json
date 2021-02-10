@@ -1,0 +1,11 @@
+{
+  "name": "playtez",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "frontend/**"
+    ]
+  }
+  
+}
