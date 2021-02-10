@@ -14,10 +14,9 @@ module.exports = {
     {
       resolve: "gatsby-source-filesystem",
       options: {
-        name: "pages",
-        path: "./src/pages/",
+        name: "posts",
+        path: `${__dirname}/content/posts`,
       },
-      __key: "pages",
     },
     "gatsby-plugin-offline",
     "gatsby-plugin-react-helmet",
